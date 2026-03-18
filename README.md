@@ -19,18 +19,16 @@
 ---
 
 ## 🧠 About Me
-
 ```python
 akash = {
     "name"       : "Akash Kumar Injeti",
     "role"       : "GenAI & LLM Engineer",
-    "education"  : "B.Tech ECE @ Raghu Engineering College (2021–2025) · CGPA: 8.20",
-    "location"   : "Hyderabad, India 🇮🇳",
-    "skills"     : ["Python", "LangChain", "LLMs", "RAG", "Streamlit", "FastAPI", "CrewAI"],
+    "education"  : "B.Tech ECE @ Raghu Engineering College (2021-2025) | CGPA: 8.20",
+    "location"   : "Hyderabad, India",
+    "skills"     : ["Python", "LangChain", "LLMs", "RAG", "Streamlit", "FastAPI"],
     "languages"  : ["English", "Telugu"],
-    "building"   : "Production-grade AI products that solve real problems",
-    "ieee"       : "IEEE Member · XTREME 17.0 Participant",
-    "available"  : True   # open to full-time / internship / freelance!
+    "ieee"       : "IEEE Member | XTREME 17.0 Participant",
+    "available"  : True
 }
 ```
 
