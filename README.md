@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Akash Kumar Injeti
+#  Hi, I'm Akash Kumar Injeti
 ### GenAI & LLM Engineer | B.Tech ECE | Hyderabad, India 🇮🇳
 
 </div>
