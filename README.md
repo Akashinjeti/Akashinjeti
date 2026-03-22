@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-injeti)
 [![HealthGPT](https://img.shields.io/badge/HealthGPT_ULTRA-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://healthgptultra.streamlit.app)
 [![LinkedIn Bio](https://img.shields.io/badge/LinkedIn_Bio_Gen-0ea5e9?style=for-the-badge&logo=streamlit&logoColor=white)](https://linkedinbiogenerator-cilkd9dwydckm9uv9aqdqf.streamlit.app)
+[![AKFunded](https://img.shields.io/badge/AKFunded-39d353?style=for-the-badge&logo=streamlit&logoColor=white)](https://akfunded.streamlit.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashinjeti.py@gmail.com)
 
 </div>
@@ -28,17 +29,20 @@ akash = {
     "languages"  : ["English", "Telugu"],
     "building"   : "Production-grade AI products that solve real problems",
     "ieee"       : "IEEE Member · XTREME 17.0 Participant",
+    "english"    : "Duolingo English Test · 120/160 · CEFR B2 (June 2025)",
     "available"  : True   # open to full-time / internship / freelance!
 }
 ```
 
 - 🏥 Built **HealthGPT ULTRA** — full-stack AI health assistant with 11+ features, Razorpay payments, Google OAuth & Supabase
-- 💼 Built **LinkedIn Bio Generator** — AI career tool for data science professionals
+- 💼 Built **LinkedIn Bio Generator** — AI career tool with bio scoring, post generator & PDF export
+- ⚡ Built **AKFunded** — India's prop trading challenge platform with live TradingView charts, P&L engine & Razorpay
 - 🎓 **NPTEL Certified** — System Design Through Verilog (8 weeks, 2023)
 - 🤖 **AICTE Certified** — Machine Learning Internship via Coding Raja Technologies (2024)
 - ⚡ **IEEE Member** — Participated in IEEE XTREME 17.0 Global Programming Competition
 - 🌍 Apps support **4 languages** — English, Telugu, Hindi, Tamil
 - 💰 Integrated **Razorpay**, **Google OAuth 2.0**, and **Supabase PostgreSQL** in production
+- 🦜 **Duolingo English Test** — 120/160 · CEFR B2 · Upper Intermediate (June 2025)
 
 ---
 
@@ -85,26 +89,32 @@ akash = {
 <tr>
 <td width="50%">
 
-### ⚡ B.Tech Final Year Project
-**CNTFET-Based Approximate 4:2 Compressor**
+### ⚡ AKFunded
+**India's Prop Trading Challenge Platform**
 
-- Designed energy-efficient approximate 4:2 compressor using Carbon Nanotube FET technology
-- Used **Cadence Virtuoso** for design & simulation
-- Optimized power consumption in digital circuits via **Verilog**
+[![Live](https://img.shields.io/badge/🟢_LIVE-39d353?style=flat-square)](https://akfunded.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github)](https://github.com/Akashinjeti/AKFunded)
 
-`Cadence Virtuoso` `CNTFET` `Verilog` `VLSI`
+- 📊 Live TradingView charts (NSE symbols)
+- ⚡ Real-time P&L tracking engine
+- 🎯 Challenge rules — profit target, daily loss, drawdown, min days
+- 🏆 Leaderboard with funded badges
+- 💳 **Razorpay** tiers (₹199 / ₹399 / ₹799)
+- 📁 Full trade history per user
+
+`Python` `Streamlit` `Supabase` `Razorpay` `TradingView`
 
 </td>
 <td width="50%">
 
-### 🚀 AI Resume Analyzer *(Coming Soon)*
-**RAG-Powered Resume Intelligence**
+### 🔬 B.Tech Final Year Project
+**CNTFET-Based Approximate 4:2 Compressor**
 
-- Upload resume → ATS score + improvements
-- Job description matching
-- Built with LangChain + FastAPI
+- Designed energy-efficient approximate 4:2 compressor using Carbon Nanotube FET technology
+- Used **Cadence Virtuoso** for design & simulation
+- Demonstrated significant power reduction in digital circuits via **Verilog**
 
-`LangChain` `RAG` `FastAPI` `PDF Parsing`
+`Cadence Virtuoso` `CNTFET` `Verilog` `VLSI`
 
 </td>
 </tr>
@@ -117,6 +127,7 @@ akash = {
 | Credential | Institution | Year | Score |
 |-----------|------------|------|-------|
 | 🎓 B.Tech ECE | Raghu Engineering College | 2021–2025 | **8.20 CGPA** |
+| 🦜 Duolingo English Test | Duolingo | Jun 2025 | **120/160 · CEFR B2** |
 | 🏆 NPTEL — System Design (Verilog) | NPTEL | Jul–Sep 2023 | Certified |
 | 🤖 ML Virtual Internship | Coding Raja · AICTE | Jun–Jul 2024 | Certified |
 | ⚡ IEEE XTREME 17.0 | IEEE | Oct 2023 | Participant |
@@ -175,14 +186,16 @@ akash = {
 ## 🏆 Achievements
 
 ```
-✅ 2 live AI products deployed on the internet
+✅ 3 live AI products deployed on the internet
 ✅ Real payments integrated — Razorpay (UPI, Cards, Net Banking)
-✅ Real auth — Google OAuth 2.0
+✅ Real auth — Google OAuth 2.0 + Supabase Email Auth
 ✅ Real database — Supabase PostgreSQL
 ✅ Vision AI — prescription scanner + food calorie counter
 ✅ Voice AI — speak symptoms in any language
 ✅ Multi-language — English, Telugu, Hindi, Tamil
-✅ 2000+ lines of production Python code
+✅ Fintech — prop trading engine with live charts & challenge rules
+✅ 3000+ lines of production Python code
+✅ Duolingo English Test — 120/160 · CEFR B2 (June 2025)
 ✅ NPTEL Certified — System Design Through Verilog
 ✅ AICTE Certified — Machine Learning Internship
 ✅ IEEE Member — XTREME 17.0 Global Participant
@@ -203,11 +216,11 @@ akash = {
 
 **Open to:** Full-time · Internship · Freelance · Collaborations
 
-📞 +91 7893587879 | 📧 akashinjeti.py@gmail.com
+ 📧 akashinjeti.py@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-injeti)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashinjeti.py@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=100&section=footer"/>
 
-</div>
+</div>>
